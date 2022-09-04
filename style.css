@@ -1,0 +1,111 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    
+    
+}
+.nav1{
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+    border: 1px;
+    padding: 10px;
+    position: sticky;
+
+}
+.nav1:hover{
+    background-color:white;
+}
+.first{
+    background-color: rgb(240, 240, 240);
+    height:1200px;
+
+}
+.king{
+    font-weight:bold;
+    font-size: 30px;
+
+}
+.linkmain{
+    margin-top: 0.30rem;
+}
+.link{
+    font-size: 25px;
+    border: 1px;
+    margin-top: 20px;
+}
+.link:hover{
+background-color: black;
+color: white;
+width:100%;
+}
+
+.heading{
+    font-size: 40px;
+    color: rgb(26, 104, 70);
+    margin-top: 40px;
+    font-weight: 350;
+    
+}
+p{
+    font-size: large;
+}
+.sub1{
+    margin-top: 250px;
+}
+.big{
+    margin-top: 40px;
+    border: 2px solid rgb(191, 189, 189);
+    height: 100px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.small{
+    margin-top: 10px;
+    border: 2px solid rgb(191, 189, 189);
+    height: 200px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sub3{
+    margin-top: 150px;
+}
+.pagenavigation{
+    margin-top:480px;
+    display: flex;
+    justify-content: center;
+}
+.pagination{
+    background-color: black;
+}
+.footer{
+    height: 100px;
+    background-color: grey;
+    color: white;
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    width: 100%;
+}
+.header{
+    height: 50px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+}
+.a{
+    margin:10px;
+    color: white;
+}
+.footer1{
+     background-color: rgb(240, 240, 240);;
+}
